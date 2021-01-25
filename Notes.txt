@@ -1,0 +1,3 @@
+Random_Number is S3K variant
+13 vs 19
+Title screen has nops replaced with level select code
