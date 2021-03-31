@@ -5,3 +5,9 @@ Title screen has nops replaced with level select code
 To create organized data, make an array
 
 $18F260
+
+Under loc_6966, there seems to be code to set the level select flag - this is replaced with nops in the final
+
+It's missing the debug flag though, which was in S3A. It's now nops
+
+why do nops imply removed code?
