@@ -1,0 +1,4 @@
+/* Demo data */
+#split	0x000C5624,0x000C5DA4,Levels\AIZ\Demodata\1.bin
+#split	0x000C5DA4,0x000C6524,Levels\HCZ\Demodata\1.bin
+#split	0x000C6524,0x000C6CA4,Levels\MGZ\Demodata\1.bin
